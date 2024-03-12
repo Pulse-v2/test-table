@@ -18,7 +18,7 @@ const TableComponent = () => {
         {
             title: 'Image',
             dataIndex: 'image_link',
-            render: (theImageURL: string) => (theImageURL && <img width={70} alt={'error'} src={theImageURL}/>)
+            render: (theImageURL: string) => (theImageURL && <img width={70} alt={'not found'} src={theImageURL}/>)
         },
         {
             title: 'Name',
