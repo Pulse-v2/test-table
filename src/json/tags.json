@@ -1,0 +1,94 @@
+[
+  {
+    "label": "Canadian",
+    "value": "Canadian"
+  },
+  {
+    "label": "CertClean",
+    "value": "CertClean"
+  },
+  {
+    "label": "Chemical Free",
+    "value": "Chemical Free"
+  },
+  {
+    "label": "Dairy Free",
+    "value": "Dairy Free"
+  },
+  {
+    "label": "EWG Verified",
+    "value": "EWG Verified"
+  },
+  {
+    "label": "EcoCert",
+    "value": "EcoCert"
+  },
+  {
+    "label": "Fair Trade",
+    "value": "Fair Trade"
+  },
+  {
+    "label": "Gluten Free",
+    "value": "Gluten Free"
+  },
+  {
+    "label": "Hypoallergenic",
+    "value": "Hypoallergenic"
+  },
+  {
+    "label": "Natural",
+    "value": "Natural"
+  },
+  {
+    "label": "No Talc",
+    "value": "No Talc"
+  },
+  {
+    "label": "Non-GMO",
+    "value": "Non-GMO"
+  },
+  {
+    "label": "Organic",
+    "value": "Organic"
+  },
+  {
+    "label": "Peanut Free Product",
+    "value": "Peanut Free Product"
+  },
+  {
+    "label": "Sugar Free",
+    "value": "Sugar Free"
+  },
+  {
+    "label": "USDA Organic",
+    "value": "USDA Organic"
+  },
+  {
+    "label": "Vegan",
+    "value": "Vegan"
+  },
+  {
+    "label": "alcohol free",
+    "value": "alcohol free"
+  },
+  {
+    "label": "cruelty free",
+    "value": "cruelty free"
+  },
+  {
+    "label": "oil free",
+    "value": "oil free"
+  },
+  {
+    "label": "purpicks",
+    "value": "purpicks"
+  },
+  {
+    "label": "silicone free",
+    "value": "silicone free"
+  },
+  {
+    "label": "water free",
+    "value": "water free"
+  }
+]
